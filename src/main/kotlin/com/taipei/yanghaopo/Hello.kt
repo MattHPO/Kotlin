@@ -5,6 +5,14 @@ fun main(args: Array<String>) {
 //    Human().hello()
     val h = Human()
     h.hello()
+
+    var age = 28
+    age = age.plus(1)
+    var weight = 66.5
+    val name = "HaoPo"
+    var enroll = true
+    println(age)
+
 }
 
 
